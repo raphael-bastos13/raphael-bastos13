@@ -9,7 +9,7 @@ Sobre mim
 
 Formado em Análise e Desenvolvimento de Sistemas pela UNISUAM e cursando pós-graduação em Ciência de Dados e Inteligência Artificial na mesma instituição.
 
-Comecei pelo lado dos dados — Python, SQL e Power BI — e fui migrando para o desenvolvimento web. Hoje trabalho com a stack JavaScript: React no front-end, Node.js e Express no back-end, MySQL e MongoDB na persistência. Gosto de pegar o problema inteiro: entender a regra de negócio, construir, testar e documentar.
+Comecei pelo lado dos dados — Python, SQL e Power BI — e fui migrando para o desenvolvimento web. Hoje trabalho com a stack JavaScript: React no front-end, Node.js e Express no back-end, MySQL e MongoDB. Gosto de pegar o problema inteiro: entender a regra de negócio, construir, testar e documentar.
 
 Em paralelo, estudo redes e segurança da informação pela Cisco Networking Academy, pelo Senac RJ.
 
